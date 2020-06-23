@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalWebPrueba", "PortalWebPrueba\PortalWebPrueba.csproj", "{2DB0D67E-65A2-4001-9901-13A131782594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB0D67E-65A2-4001-9901-13A131782594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB0D67E-65A2-4001-9901-13A131782594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB0D67E-65A2-4001-9901-13A131782594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB0D67E-65A2-4001-9901-13A131782594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1FEB83-0191-451F-A35B-4E2EF14095D0}
+	EndGlobalSection
+EndGlobal
